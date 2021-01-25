@@ -1,0 +1,3 @@
+include ':lib-slider-release'
+include ':app'
+rootProject.name = "dimmer"
