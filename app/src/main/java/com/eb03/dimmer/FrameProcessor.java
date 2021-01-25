@@ -8,7 +8,7 @@ public class FrameProcessor {
 
 
     /**
-     * Cette methode encore le Payload associé à une
+     * Cette methode encode le Payload associé à une
      * commande en une trame lisible qui peut ensuite être envoyée au transceiver.
      * @param b est le payload
      */
